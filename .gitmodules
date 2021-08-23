@@ -1,4 +1,0 @@
-[submodule "hacs/integration"]
-	path = hacs/integration
-	url = https://github.com/hacs/integration.git
-	branch = 1.14.0
