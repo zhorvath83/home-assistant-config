@@ -1,2 +1,2 @@
 # home-assistant-config
-My Home Assistant Configuration 🏡
+My Home Assistant configuration 🏡
